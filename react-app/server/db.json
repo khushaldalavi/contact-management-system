@@ -1,0 +1,90 @@
+{
+  "contacts": [
+    {
+      "id": "@A121",
+      "name": "ajay singh",
+      "photo": "https://png.pngtree.com/png-vector/20191101/ourmid/pngtree-cartoon-color-simple-male-avatar-png-image_1934459.jpg",
+      "mobile": "989898989",
+      "email": "ajay123@gmail.com",
+      "company": "tcs",
+      "title": "Software Developer",
+      "groupId": "1"
+    },
+    {
+      "id": "@A122",
+      "name": "vijay",
+      "photo": "https://th.bing.com/th/id/OIP.eU8MYLNMRBadK-YgTT6FJQHaHw?w=208&h=217&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+      "mobile": "779898989",
+      "email": "vijay123@gmail.com",
+      "company": "hcl",
+      "title": "Software Developer",
+      "groupId": "2"
+    },
+    {
+      "id": "@A123",
+      "name": "raj",
+      "photo": "https://th.bing.com/th/id/OIP.eU8MYLNMRBadK-YgTT6FJQHaHw?w=208&h=217&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+      "mobile": "986698989",
+      "email": "sanjay123@gmail.com",
+      "company": "test yantra",
+      "title": "Software Developer",
+      "groupId": "3"
+    },
+    {
+      "id": "@A124",
+      "name": "digvijay",
+      "photo": "https://th.bing.com/th/id/OIP.eU8MYLNMRBadK-YgTT6FJQHaHw?w=208&h=217&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+      "mobile": "985558989",
+      "email": "digjay123@gmail.com",
+      "company": "accenture",
+      "title": "Software Developer",
+      "groupId": "4"
+    },
+    {
+      "id": "@A125",
+      "name": "shubham pandu",
+      "photo": "https://toppng.com/uploads/preview/avatar-png-11554021819gij72acuim.png",
+      "mobile": "989999989",
+      "email": "jay123@gmail.com",
+      "company": "tmech",
+      "title": "Software Developer",
+      "groupId": "5"
+    },
+    {
+      "id": "@A126",
+      "name": "rajesh",
+      "photo": "https://th.bing.com/th/id/OIP.eU8MYLNMRBadK-YgTT6FJQHaHw?w=208&h=217&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+      "mobile": "966898989",
+      "email": "rajesh123@gmail.com",
+      "company": "tcs",
+      "title": "Software Developer",
+      "groupId": "6"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Family"
+    },
+    {
+      "id": "3",
+      "name": "Social"
+    },
+    {
+      "id": "4",
+      "name": "College"
+    },
+    {
+      "id": "5",
+      "name": "Friends"
+    },
+    {
+      "id": "6",
+      "name": "Community"
+    }
+  ]
+}
